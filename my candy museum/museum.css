@@ -11,6 +11,16 @@ body{
     color: #ea1c2c;
   
 }
+ h2{
+    color: #ea1c2c;
+    font-weight: 300;
+    font-size: 2rem;
+}
+ p{
+    color:#f498e8;
+    line-height: 2;
+}
+.
 #mainNavbar{
     font-size:1.5rem; 
     font-weight: 100;
@@ -31,6 +41,9 @@ body{
     font-weight: 100 ;
     color: white;
     font-size: 3rem;
+}
+.content{
+    margin-top: 150px;
 }
 @media(max-width:1200px){
     #headingGroup h1{
