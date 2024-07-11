@@ -1,0 +1,41 @@
+body{
+    background-color: #f5d9d5;
+    font-family:"nunito",sans-serif;
+}
+#mainNavbar a{
+    padding-right:1.5em ;
+    text-decoration: none;
+    font-weight: 100;
+}
+#mainNavbar .navbar-brand{
+    color: #ea1c2c;
+  
+}
+#mainNavbar{
+    font-size:1.5rem; 
+    font-weight: 100;
+   
+}
+#mainNavbar .nav-links{
+    color:white;
+    font-weight: 50;
+}
+#mainNavbar .nav-links:hover{
+    color:#ea1c2c;
+}
+#headingGroup span{
+    color: #ea1c2c;
+    font-weight: 400;
+}
+#headingGroup h2{
+    font-weight: 100 ;
+    color: white;
+    font-size: 3rem;
+}
+@media(max-width:1200px){
+    #headingGroup h1{
+        font-weight: 100;
+        font-size: 3rem;
+
+    }
+}
